@@ -1,5 +1,11 @@
-console.log("%cThank you for using Nightlight API!", "background: #292929; color: #ae1adb; font-size: x-large");
-console.log("%cMake sure to login with your Nightlight credentials when using function getNLAPI()", "background: #292929; color: white; font-size: small");
+/* 
+
+Public Nightlight API 2.0 by iTenerai 
+Version: 0.0.1 (Public Release)
+
+Thank you for using NLAPI! <3
+
+*/
 
 export class NIGHTLIGHTAPI {
 
